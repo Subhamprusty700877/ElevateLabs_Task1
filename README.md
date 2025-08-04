@@ -10,9 +10,9 @@ Dataset Used:
 I used the Customer Personality Analysis dataset from Kaggle. It contains marketing campaign data from a company, including details like age, education, income, and customer behavior.
 
 Tools I Used:
-Python
-Pandas (for data handling)
-VS Code (for writing and testing the code)
+Python,
+Pandas (for data handling),
+VS Code (for writing and testing the code).
 
 Steps I Did :
 Loaded the dataset using Pandas.
